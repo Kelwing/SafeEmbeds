@@ -14,7 +14,7 @@ setup(
     license='GPLv3',
     description='A monkey patcher that makes embeds in Discord.py safe at runtime.',
     url='https://github.com/kelwing/SafeEmbeds',
-    python_requires='>=3.6.6',
+    python_requires='>=3.6.4',
     install_requires=['discord.py'],
     long_description=readme,
     classifiers=[
